@@ -1,4 +1,4 @@
-/******** Obscure login error ********/
+/******** Obscure login error   ********/
 function custom_wordpress_error_message(){
 return 'Try again.';
 }
