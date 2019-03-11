@@ -20,3 +20,23 @@ font-size: 1.2em;
 h6 {
 font-size: 1em;
 }
+
+/******** Vertically align content in columns, set equalize column heights in columns settings first and assign class to column ********/
+
+.hn-vertical-align-start {  
+	display: flex;  
+	flex-direction: column;  
+	justify-content: flex-start; 
+}
+
+.hn-vertical-align-center {  
+	display: flex;  
+	flex-direction: column;  
+	justify-content: center; 
+}
+
+.hn-vertical-align-bottom {  
+	display: flex;  
+	flex-direction: column;  
+	justify-content: flex-end; 
+}
