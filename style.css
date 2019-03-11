@@ -1,0 +1,22 @@
+
+
+/******** Setting the font size for title elements: 1em = the body font size px value ********/
+
+h1, .et_pb_section .et_pb_text h1 {
+font-size: 3em;
+}
+h2, .et_pb_section .et_pb_text h2 {
+font-size: 1.6em;
+}
+h3, .et_pb_section .et_pb_text h3 {
+font-size: 1.4em;
+}
+h4, .et_pb_section .et_pb_text h4 {
+font-size: 1.3em;
+}
+h5 {
+font-size: 1.2em;
+}
+h6 {
+font-size: 1em;
+}
